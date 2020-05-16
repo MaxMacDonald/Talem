@@ -1,0 +1,5 @@
+Title
+Tag
+Score
+Skills
+This is where content goes.
